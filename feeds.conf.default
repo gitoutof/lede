@@ -7,7 +7,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git freifunk https://github.com/freifunk/openwrt-packages.git
 
 src-git packages2 https://github.com/Lienol/openwrt-packages.git
-src-git luci2 https://github.com/Lienol/openwrt-luci.git;17.01
+src-git luci2 https://github.com/Lienol/openwrt-luci.git;18.06
 src-git lienol https://github.com/Lienol/openwrt-package.git;main
 
 src-git diy1 https://github.com/xiaorouji/openwrt-passwall.git;main
